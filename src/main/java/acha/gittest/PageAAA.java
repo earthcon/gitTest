@@ -7,4 +7,5 @@ public class PageAAA {
     String CCCCCC;
     String EEEEE;
     String A20220428;
+    String A2022042801;
 }
