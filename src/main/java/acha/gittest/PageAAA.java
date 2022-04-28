@@ -8,4 +8,5 @@ public class PageAAA {
     String EEEEE;
     String A20220428;
     String A2022042801;
+    String A2022042802;
 }
